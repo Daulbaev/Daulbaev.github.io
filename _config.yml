@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: false
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               The first China-Russian Conference on Numerical Optimization and Machine Learning (NOML 2022)
+tagline:             
+url:                 noml2022.github.io
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +20,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Talgat Daulbaev
+  url:               twitter.com/TDaulbaev
+  email:             talgat.daulbaev@skoltech.ru
 
 # Custom vars
-version:             2.0.0
+version:             1.0.0
 github:
   repo:              https://github.com/poole/poole
