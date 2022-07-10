@@ -4,6 +4,9 @@
 permalink:           pretty
 relative_permalinks: false
 
+# Build settings
+markdown: kramdown
+
 # Setup
 title:               The first China-Russian Conference on Numerical Optimization and Machine Learning (NOML 2022)
 tagline:             
